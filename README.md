@@ -1,4 +1,6 @@
-# claudemods cachyos limine theme (Forked From https://github.com/diegons490/cachyos-limine-theme)
+# claudemods cachyos limine theme 
+
+(Forked From https://github.com/diegons490/cachyos-limine-theme)
 
 ## Options in the script
 
