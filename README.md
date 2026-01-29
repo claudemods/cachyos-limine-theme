@@ -18,4 +18,5 @@
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/claudemods/cachyos-limine-theme/refs/heads/main/install/install-from-github.sh)"
 ```
 
-<img width="1280" height="800" alt="cachyos" src="https://github.com/user-attachments/assets/168d1971-e51a-4d2b-b7ed-8866a04ce2bf" />
+<img width="1280" height="800" alt="cachyos" src="https://github.com/user-attachments/assets/f1bcc035-e458-46f9-a30c-8355ca27edd6" />
+
